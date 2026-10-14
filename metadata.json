@@ -1,0 +1,6 @@
+{
+  "name": "KazPost Tracker - Отслеживание посылок KZ",
+  "description": "Отслеживание посылок Казпочта и курьерских служб Казахстана с поддержкой темной темы, push-уведомлений и мультиязычности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
